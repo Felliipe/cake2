@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: relative;
+    width: 1360px;
+    height: 600px;
+
+    background: #dd6e84;
+}
+
+
+
+#logo {
+    position: absolute;
+    width: 496px;
+    height: 128px;
+    left: 420px;
+    top: 200px;
+
+    font-family: "Sacramento", cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9rem;
+    line-height: 210px;
+
+    color: #FFFFFF;
+}
+
+#cake {
+    position: absolute;
+    width: 292px;
+    height: 37px;
+    left: 630px;
+    top: 238px;
+
+    font-family: "Comfortaa", cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 54px;
+
+    color: #FFFFFF;
+}
+
+#confeitaria {
+    position: absolute;
+    width: 292px;
+    height: 37px;
+    left: 590px;
+    top: 345px;
+
+    font-family: "Comfortaa", cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 39px;
+    line-height: 40px;
+
+
+    color: #FFFFFF;
+}
+
+.in1 {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 660px;
+    top: 400px; 
+    
+
+}
+
+.in2 {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 740px;
+    top: 400px;
+
+    
+}
